@@ -10,7 +10,7 @@ const Menu = () => {
         <div>
           <h2 className="text-2xl mb-4 text-center">Desserts</h2>
           <div className="mb-4 flex bg-white rounded-xl">
-            <Image src="/assets/banofee.jpg" alt="Banoffee trifle" width={160} height={160} className="w-40 h-40 object-cover my-4 mx-4" />
+            <Image src="/assets/Banofee.jpg" alt="Banoffee trifle" width={160} height={160} className="w-40 h-40 object-cover my-4 mx-4" />
             <div className="flex flex-col justify-center text-black">
               <p className="text-lg">Banoffee trifle</p>
               <p className="text-lg">Banoffee trifle - Amuses bouche</p>
